@@ -1,4 +1,3 @@
-# winform-ocr-get-pinyin
 
 ## Required Settings
 
